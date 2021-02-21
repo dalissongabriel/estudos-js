@@ -20,4 +20,6 @@ Exemplos: <a href="./codigoSincronoEAssincrono.js">Código Sícrono e Assícrono
 ## Como criar uma promise
 
 Geralmente, consumimos promises já prontas.
-Todavia, para fins de estudo,  <a href="criarPromises.js">clique aqui</a> para ver exemplo de como tu podes criar uma. 
+Todavia, para fins de estudo,  <a href="criarPromises.js">clique aqui</a> para ver exemplo de como tu podes criar uma.  Nele também está demonstrado como podemos usar o metódo "then" para obter o dado/mensagem de sucesso de uma promise
+
+Já <a href="./catchPromise.js">neste outro exemplo</a>, demonstro como tu podes realizar o tratamento de falha de uma promise e como ela pode ocorrer.
