@@ -1,0 +1,22 @@
+{
+  "name": "fluencia_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalissongabriel/estudos-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalissongabriel/estudos-js/issues"
+  },
+  "homepage": "https://github.com/dalissongabriel/estudos-js#readme",
+  "dependencies": {
+    "cross-fetch": "^3.0.6"
+  }
+}
