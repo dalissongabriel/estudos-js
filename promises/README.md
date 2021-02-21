@@ -20,3 +20,4 @@ Exemplos: <a href="./codigoSincronoEAssincrono.js">Código Sícrono e Assícrono
 ## Como criar uma promise
 
 Geralmente, consumimos promises já prontas.
+Todavia, para fins de estudo,  <a href="criarPromises.js">clique aqui</a> para ver exemplo de como tu podes criar uma. 
